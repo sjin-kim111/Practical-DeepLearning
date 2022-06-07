@@ -1,3 +1,6 @@
+# 업로드 안 하는 파일
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
